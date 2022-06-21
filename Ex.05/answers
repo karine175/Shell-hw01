@@ -1,0 +1,10 @@
+1. Open the Menu and find or search terminal.
+2. mkdir -p dir1/dir2
+3. 'command' --help or -h
+4. 'Up/Down arrow keys'scroll through recent commands and 'Enter' will execute it
+5. type a part of command or filename and hit 'Tab' key
+6. Yes, put '&' between programs
+7. it is the top from where everything starts
+8. cd /
+9. 255 or 256 characters
+10. root is superuser which can run programs, execute systems, access files and modify settings.
